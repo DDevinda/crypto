@@ -24,3 +24,46 @@
 @import "~@ionic/angular/css/text-alignment.css";
 @import "~@ionic/angular/css/text-transformation.css";
 @import "~@ionic/angular/css/flex-utils.css";
+
+.ion-title {
+    background: url('https://cryptocrowd.org/wp-content/uploads/2017/02/CryptoCrowd-Logo-Facebook.png') no-repeat center;
+    background-size: 120px 50px;
+}
+
+.background-grey {
+    background-color: #e0e0e0;
+}
+
+.form-width-100 {
+    width: 100%;
+}
+
+.margin-t10 {
+    margin-top: 10px;
+}
+
+.margin-b10 {
+    margin-bottom: 10px;
+}
+
+.span-search {
+    background-color: white!important;
+
+}
+
+.accounts-text {
+    color: #495057;
+    text-align: center;
+    font-size: small;
+}
+
+hr {
+    height: 1px !important;
+    width: 100% !important;
+    background: #a1a2a3 !important;
+    display: block !important;
+    // font-size: 2em !important;
+    opacity: 1 !important;
+    visibility: visible !important;
+    margin-top: 3px!important;
+  }
